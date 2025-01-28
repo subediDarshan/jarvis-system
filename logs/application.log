@@ -1,0 +1,2 @@
+[ 2025-01-28 22:33:14,833 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\user\\anaconda3\\envs\\jarvissystem\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-01-28 22:33:14,833 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\user\anaconda3\envs\jarvissystem\lib\site-packages\comtypes\gen'
